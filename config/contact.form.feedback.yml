@@ -1,0 +1,14 @@
+uuid: 0f73e3a5-6c3c-4e65-94a8-5b70285a819e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - ramcham_gaid@yahoo.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
